@@ -1,6 +1,6 @@
 "use client"
 import { useState, useRef } from "react";
-export default function Home() {
+export default function Week10() {
 
   const [count, setCount] = useState(1)
   const timerValue = useRef()
